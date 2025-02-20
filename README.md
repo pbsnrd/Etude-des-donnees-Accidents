@@ -20,3 +20,4 @@ Après un nettoyage de la donnée et un assemblage des tables, vous aurez en sor
     - Vélos et EDP à moteurs.
     
 Travail d'étudiant SIGAT réalisé avec Leray Tristan et Mouton Kilian en 2024.
+Analyse sur la ville de Rennes disponible [ici](https://pbsnrd.github.io/projet_site_web/pages/Projet-etudiant/automatisation.html) ! 
